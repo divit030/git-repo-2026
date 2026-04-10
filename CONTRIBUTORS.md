@@ -6,4 +6,4 @@ Welcome to our Hall of Fame! Add your name below as part of your first PR.
 | :--- | :--- | :--- |
 | Your Name | [@yourusername](https://github.com/yourusername) | markdown |
 
-Divit Pandey | @divit030 | https://github.com/divit030 | Favourite Language- Hinglish
+| Divit Pandey | @divit030 (https://github.com/divit030) | Java |
